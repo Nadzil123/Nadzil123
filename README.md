@@ -46,6 +46,8 @@ The **Nolqu ecosystem** is designed to provide everything needed to build softwa
 - Virtual machines
 - Software architecture
 - Game development
+- Modding games like Minecraft
+- Scripting games on Roblox
 
 ---
 
